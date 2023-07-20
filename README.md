@@ -35,8 +35,6 @@ brew tap homebrew/cask-fonts
 brew install font-jetbrains-mono-nerd-font
 ```
 
----
-
 ## Shells & Auto-complete
 
 - [**fish**](https://fishshell.com/)
@@ -52,14 +50,10 @@ brew install font-jetbrains-mono-nerd-font
   - good ol' bash
   - universal
 
----
-
 ## Prompts
 
 - [**starship.rs**](https://starship.rs/)
   - gives you quick feedback on your environment
-
----
 
 ## CLI Tools
 
@@ -76,8 +70,6 @@ brew install font-jetbrains-mono-nerd-font
   - ...and more
 - [**slides**](https://github.com/maaslalani/slides)
   - simple markdown slideshows on terminal
-
----
 
 ## dotfile Management
 
